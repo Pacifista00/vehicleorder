@@ -1,0 +1,74 @@
+/* 
+10316B
+1C819E
+F2F7FF
+FDBE34
+
+0E2033
+E6E6D4
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap');
+
+body{
+    background-color: #F9F6F7;
+    font-family: sans-serif;
+    color: #0E2033;
+}
+.title{
+    font-family: 'Raleway', sans-serif;
+}
+.my-text-dark{
+    color: #0E2033 !important;
+}
+.my-text-light{
+    color: #E6E6D4 !important;
+}
+.my-text-yellow{
+    color: #FDBE34;
+}
+.text-dark-list:hover{
+    color: #C1D0B5 !important;
+}
+
+
+.my-bg-danger{
+    background-color: #EB5353 !important;
+}
+.my-bg-warning{
+    background-color: #F9D923 !important;
+}
+.my-bg-success{
+    background-color: #36AE7C !important;
+}
+
+
+.my-bg-dark{
+    background-color: #10316B !important;
+}
+.my-bg-blue{
+    background-color: #1C819E !important;
+}
+.my-bg-white{
+    background-color: #F2F7FF !important;
+}
+.my-bg-yellow{
+    background-color: #FDBE34 !important;
+}
+
+.my-btn{
+    background-color: #1C819E;
+    color: #F2F7FF;
+}
+.my-btn:hover{
+    background-color: #F2F7FF;
+    color: #1C819E  ;
+}
+.my-btn2{
+    background-color: #FDBE34;
+    color: #10316B;
+}
+.my-btn2:hover{
+    background-color: #0E2033;
+    color: #F2F7FF  ;
+}
